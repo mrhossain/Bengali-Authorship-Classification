@@ -1,0 +1,19 @@
+2
+(750, 3)
+(750, 3)
+Total number of test examples: 750
+Accuracy: 0.986667
+               precision    recall  f1-score   support
+
+BankimChandra       1.00      1.00      1.00       250
+ Rabindranath       0.98      0.98      0.98       250
+ SaratChandra       0.98      0.98      0.98       250
+
+     accuracy                           0.99       750
+    macro avg       0.99      0.99      0.99       750
+ weighted avg       0.99      0.99      0.99       750
+
+[[250   0   0]
+ [  0 245   5]
+ [  0   5 245]]
+
